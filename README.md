@@ -13,3 +13,6 @@ Make sure the config contains your bot token and run the bot by typing **node in
 
 ## Author
 *[Bronze Gamer](https://github.com/BronzeGamerYT)
+
+## Video
+VIDEO IS COMMING SOON
